@@ -26,7 +26,7 @@ export default function UnderHero() {
               className="w-[80%] my-[30px] image-scale-animation"
             ></img>
             <img src={CtaTitleImg} className="w-[80%] mb-[40px]"></img>
-            <a>
+            <a className="flex justify-center">
               <img
                 src={ButtonImg}
                 className="w-[60%] hover:scale-125 transition mb-[60px]"
