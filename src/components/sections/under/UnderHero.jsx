@@ -67,9 +67,9 @@ export default function UnderHero() {
                 <a
                   href="https://www.paperstreet.com.br/"
                   target="_blank"
-                  className="underline"
+                  className="hover:underline"
                 >
-                  Visite meu site
+                  Precisa de um site? Clique aqui
                 </a>
               </p>
             </MotionDivRightToLeft>
