@@ -109,15 +109,16 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "A Definir",
+      miniTag: "JOGUE COM A GENTE",
       title: (
         <h1 className="mb-[16px]">
-          A Definir <span className="text-primary">A Definir</span> A Definir
+          Venha <span className="text-primary">se divertir</span> com a gente!
         </h1>
       ),
-      subtitle: "A Definir",
+      subtitle:
+        "Aproveitamos de todos os conteúdos do jogo: Woe, Torres sem sim, Upar, BG, Abracadabras e afins!",
       heroImg: heroImg,
-      ctaButtonText: "Entre em contato",
+      ctaButtonText: "Entre no nosso Discord",
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
       secondaryCta: "A Definir",

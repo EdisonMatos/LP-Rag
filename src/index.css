@@ -60,5 +60,26 @@
   animation: fadeOut 1s ease-in-out;
 }
 
+.image-scale-animation {
+  animation: scale-up-down 3s ease-in-out infinite;
+  filter: drop-shadow(0 0 5px rgba(255, 255, 0, 0.5))
+    drop-shadow(0 0 10px rgba(255, 255, 0, 0.3));
+}
 
-
+@keyframes scale-up-down {
+  0% {
+    transform: scale(1);
+    filter: drop-shadow(0 0 5px rgba(255, 255, 0, 0.5))
+      drop-shadow(0 0 10px rgba(255, 255, 0, 0.3));
+  }
+  50% {
+    transform: scale(1.1);
+    filter: drop-shadow(0 0 8px rgba(255, 255, 0, 0.6))
+      drop-shadow(0 0 15px rgba(255, 255, 0, 0.4));
+  }
+  100% {
+    transform: scale(1);
+    filter: drop-shadow(0 0 5px rgba(255, 255, 0, 0.5))
+      drop-shadow(0 0 10px rgba(255, 255, 0, 0.3));
+  }
+}

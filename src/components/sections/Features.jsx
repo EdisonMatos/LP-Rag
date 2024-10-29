@@ -14,9 +14,9 @@ import SectionShapeDiv from "../sectionElements/SectionShapeDiv";
 export default function Features({ modal }) {
   return (
     <div>
-      <SectionArea id="service" className="squares">
+      <SectionArea id="service" paddingtop={false}>
         <SectionShapeDiv
-          shapeDivArrow={false}
+          shapeDivWaves
           shapeColor="text-bgSectionDark"
           paddingbot={false}
         />

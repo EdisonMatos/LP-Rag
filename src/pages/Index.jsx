@@ -24,8 +24,8 @@ export default function Index() {
       <Navbar LightMode={true} />
       <Hero />
       <Features />
-      <About modal={true} />
-      {/* <AboutInstagram /> */}
+      <About />
+      <AboutInstagram />
       <Cta />
       <Steps />
       <Faq />
