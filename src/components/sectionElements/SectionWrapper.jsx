@@ -9,7 +9,7 @@ export default function SectionWrapper({ children, className }) {
   const childrenArray = Children.toArray(children);
   return (
     <div
-      className={`w-[90%] max-w-[1215px] flex flex-col items-center ${className}`}
+      className={`w-[80%] max-w-[1215px] flex flex-col items-center ${className}`}
     >
       {childrenArray}
     </div>
