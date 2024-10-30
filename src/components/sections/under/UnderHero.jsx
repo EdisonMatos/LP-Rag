@@ -61,7 +61,7 @@ export default function UnderHero() {
               </a>
             </MotionDivLeftToRight>
             <MotionDivRightToLeft className="flex flex-col items-center">
-              <p className="text-center mb-[30px]">
+              <p className="text-center mb-[30px] opacity-70">
                 Desenvolvido por Edison Matos (Ed)
                 <br />
                 Email: contato@guildunderdogs.com.br
