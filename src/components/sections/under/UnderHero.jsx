@@ -1,10 +1,16 @@
-import HeroBgImg from "../../../assets/imgs/hero/heroBG.jpg";
-import HeroShieldImg from "../../../assets/imgs/hero/shield.png";
-import TitleImg from "../../../assets/imgs/hero/title.png";
-import CtaTitleImg from "../../../assets/imgs/hero/ctaTitle.png";
-import SatanImg from "../../../assets/imgs/hero/satan.png";
-import ButtonImg from "../../../assets/imgs/hero/button.png";
-import FlagImg from "../../../assets/imgs/hero/flag.png";
+// import HeroBgImg from "../../../assets/imgs/hero/heroBG.jpg";
+// import HeroShieldImg from "../../../assets/imgs/hero/shield.png";
+// import TitleImg from "../../../assets/imgs/hero/title.png";
+// import CtaTitleImg from "../../../assets/imgs/hero/ctaTitle.png";
+// import SatanImg from "../../../assets/imgs/hero/satan.png";
+// import ButtonImg from "../../../assets/imgs/hero/button.png";
+
+import HeroBgImg from "../../../assets/imgs/hero/heroBG.webp";
+import HeroShieldImg from "../../../assets/imgs/hero/shield.webp";
+import TitleImg from "../../../assets/imgs/hero/title.webp";
+import CtaTitleImg from "../../../assets/imgs/hero/ctaTitle.webp";
+import SatanImg from "../../../assets/imgs/hero/satan.webp";
+import ButtonImg from "../../../assets/imgs/hero/button.webp";
 
 import SectionArea from "../../sectionElements/SectionArea";
 import SectionWrapper from "../../sectionElements/SectionWrapper";
