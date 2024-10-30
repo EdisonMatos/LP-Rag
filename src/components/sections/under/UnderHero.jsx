@@ -64,6 +64,8 @@ export default function UnderHero() {
               <p className="text-center mb-[30px]">
                 Desenvolvido por Edison Matos (Ed)
                 <br />
+                Email: contato@guildunderdogs.com.br
+                <br />
                 <a
                   href="https://www.paperstreet.com.br/"
                   target="_blank"
